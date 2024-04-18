@@ -1,0 +1,44 @@
+header { 
+    color: rgba(255, 255, 255, 1); 
+     text-align: center; 
+   } 
+  
+   header h1 { 
+     font-weight: 300; 
+     font-style: 46px; 
+     
+   } 
+    
+   header h4 { 
+     font-weight: 300; 
+     font-style: 16px; 
+   } 
+  
+   .header-text{ 
+     margin-top: -35rem; 
+   } 
+  
+   .mainTeatle { 
+     font-size: 40px; 
+     color: rgba(255, 255, 255, 1); 
+   } 
+  
+   nav{ 
+    
+     display: grid; 
+     grid-template-columns: 1fr 1fr 0.5fr; 
+     gap: 10%; 
+     margin-top: 2%; 
+   } 
+    
+   nav ul { 
+     display: flex; 
+     justify-content: space-between; 
+   
+   } 
+  
+   nav ul li { 
+   list-style: none; 
+   }
+
+   
